@@ -1,4 +1,3 @@
-Add advanced dashboard widgets
 Update API rate limiting
 Fix CSS styling issues
 Payment service with validation bug
