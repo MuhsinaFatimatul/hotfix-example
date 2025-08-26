@@ -4,3 +4,6 @@ Update API rate limiting   ------    wrong
 Fix CSS styling issues
 Payment service with validation bug
 ####### Add null check for credit card validation  -> This is my hotfix change! 
+
+
+Added new lines
