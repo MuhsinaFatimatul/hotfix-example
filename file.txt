@@ -1,4 +1,4 @@
-Change Favicon Icon  - should conflict  - must conflict
+Change Favicon Icon
 Add advanced dashboard widgets
 Update API rate limiting   ------    wrong
 Fix CSS styling issues
