@@ -1,0 +1,29 @@
+name: Deployment of python application
+
+
+on:
+  push:
+    branches:
+    - main
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps: 
+      - name: Print simple statement
+        run : echo "Hello World"
+
+
+  # build2:
+  #   runs-on: ubuntu-latest
+  #   steps: 
+  #     - name: Print simple statement
+  #       run : echo "Hello World"
+
+  # build3:
+  #   runs-on: ubuntu-latest
+  #   steps: 
+  #     - name: Print simple statement
+  #       run : echo "Hello World"
+    
