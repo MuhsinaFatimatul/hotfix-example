@@ -1,0 +1,15 @@
+name: Deployment of python application
+
+
+on:
+  pull_request:
+    branches:
+    - main
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps: 
+      - name: Print simple statement
+        run : echo "Hello World"
