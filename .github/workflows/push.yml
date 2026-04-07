@@ -9,6 +9,7 @@ on:
 
 jobs:
   build:
+    environment: uat
     runs-on: ubuntu-latest
     steps: 
       - name: Print simple statement
